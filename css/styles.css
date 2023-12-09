@@ -35,6 +35,10 @@ align-items: center;
     padding-bottom: 60px;
 }
 
+.header-item {
+    margin-right: 40px;
+}
+
 .header-item:last-child {
     margin-right: 0;
 }
