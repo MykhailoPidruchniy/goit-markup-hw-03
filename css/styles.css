@@ -26,14 +26,6 @@ align-items: center;
     gap: 40px;
 }
 
-.header-list {
-    display: flex;
-    margin-right: 40px;
-}
-
-.header-list:last-child {
-    margin-right: 0;
-}
 
 .section {
     padding-bottom: 60px;
@@ -101,10 +93,6 @@ font-weight: 500;
 letter-spacing: 0.02em;
 line-height: 24px; 
 text-decoration: none;
-}
-
-.list {
-    list-style: none;
 }
 
 .menu:hover {
